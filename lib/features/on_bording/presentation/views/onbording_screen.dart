@@ -24,7 +24,7 @@ class OnbordingScreen extends StatelessWidget {
                   padding: EdgeInsets.symmetric(horizontal: 30.w),
                   child: Column(
                     children: [
-                      Text(
+                       Text(
                         "Manage and schedule all of your medical appointments easily with Docdoc to get a new experience.",
                         style: TextStyles.font13gryregular,
                         textAlign: TextAlign.center,
